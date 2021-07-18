@@ -1,5 +1,5 @@
 <img align="center" src="https://raw.githubusercontent.com/edwinsamodra/edwinsamodra/master/assets/Header.png" width="1000px">
-----
+<hr>
 <img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200px">
 
 **About me**
@@ -21,10 +21,7 @@
 <img height="25px" src="https://code.visualstudio.com/favicon.ico" />
 
 
-**Github Stats:**
+**Github Stats**
 <summary>
-
-[![Edwin Github Stats](https://github-readme-stats.vercel.app/api?username=edwinsamodra)](https://github.com/edwinsamodra)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinsamodra&theme=buefy&layout=compact)
-
 </summary>
