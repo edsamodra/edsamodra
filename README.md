@@ -1,8 +1,7 @@
-<img align="center" src="https://raw.githubusercontent.com/edwinsamodra/edwinsamodra/master/assets/Header.png" width="1000px">
-<hr />
 <img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200px">
 
 **About me**
+- 👋 Hi! I am Edwin
 - 👨‍🎓 Computer Science Student at Brawijaya University
 - 🏄‍♂️ I'm currently learning **Laravel** and all about **Open Source**
 - 💬 Ask me about anything
@@ -27,5 +26,5 @@
 <br />
 <br />
 
-  [<img height="35px" src="https://image.flaticon.com/icons/png/512/2111/2111644.png" />](https://t.me/edwinsamodra)
-  [<img height="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://linkedin.com/in/edwinsamodra)
+  [<img height="35px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />](https://t.me/edwinsamodra)
+  [<img height="35px" src="https://img.icons8.com/fluency/344/linkedin.png" />](https://linkedin.com/in/edwinsamodra)
