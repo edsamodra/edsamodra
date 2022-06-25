@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200px">
+<img align="right" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50px">
 
 **About me**
 - 👋 Hi! I am Edwin
