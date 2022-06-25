@@ -7,11 +7,9 @@
 - 💬 Ask me about anything
 - ⚡ Fun Fact: love science fiction movies
 - ✨ Interesting Quote : _❝fundamental first.❞_
-
 <br />
 
 **Tools and Language**
-<br />
 <br />
   <img height="35px" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" />
   <img height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -24,7 +22,5 @@
 
 **Connect Wih Me**
 <br />
-<br />
-
   [<img height="35px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />](https://t.me/edwinsamodra)
   [<img height="35px" src="https://img.icons8.com/fluency/344/linkedin.png" />](https://linkedin.com/in/edwinsamodra)
