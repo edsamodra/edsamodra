@@ -26,9 +26,3 @@ I'm a passionate mid-level software engineer with 2+ YoE. Welcome to my GitHub p
 I'm on my way to getting an A+ in Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=edsamodra&show_icons=true&theme=radical)
-
----
-
-### 📫 Get in Touch
-
-- ![](https://img.shields.io/badge/-333333?style=flat&logo=x) [@edsamodra](https://twitter.com/edsamodra)
