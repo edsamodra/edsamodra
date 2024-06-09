@@ -1,8 +1,6 @@
 ### Hi there! I'm Edwin 👋
 
-<img src="https://img.freepik.com/premium-photo/comfortable-modern-home-office-workspace-with-laptop-computer-mockup-lowlight-3d-render_67155-17925.jpg?w=1380">
-
-I'm a passionate mid-level software engineer with 2+ YoE. Welcome to my GitHub profile!
+I'm a passionate mid-level web application dev with 2+ YoE. Welcome to my GitHub profile!
 - 🏄‍♂️ I'm currently learning Front End Web Development using **Vue 3** and **TailwindCSS**
 - 💪🏽 In the last year, I learned Golang as Back End and Linux
 - ✨ ❝Curiosity is the energy to explore things and the desire to learn❞
@@ -23,6 +21,6 @@ I'm a passionate mid-level software engineer with 2+ YoE. Welcome to my GitHub p
 ---
 
 ### 📈 GitHub Stats
-I'm on my way to getting an A+ in Github Stats
+I'm on my way to getting an A+ in GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=edsamodra&show_icons=true&theme=radical)
