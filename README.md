@@ -21,6 +21,6 @@ I'm a passionate mid-level web application dev with 2+ YoE. Welcome to my GitHub
 ---
 
 ### 📈 GitHub Stats
-I'm on my way to getting an A+ in GitHub Stats
+I'm on my way to getting an A+ in GitHub Stats. Because I usually using [GitLab](https://repo.indobsd.id/edwinsamodra)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=edsamodra&show_icons=true&theme=radical)
