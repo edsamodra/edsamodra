@@ -1,7 +1,7 @@
 ### Hi there! I'm Edwin 👋
 
 I'm a passionate mid-level web application dev with 2+ YoE. Welcome to my GitHub profile!
-- 🏄‍♂️ I'm currently learning Front End Web Development using **Vue 3** and **TailwindCSS**
+- 🏄‍♂️ I'm currently learning Front End Web Development using **Vue3**
 - 💪🏽 In the last year, I learned Golang as Back End and Linux
 - ✨ ❝Curiosity is the energy to explore things and the desire to learn❞
 - 💬 Ask me about Web Application Development
