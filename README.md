@@ -2,7 +2,7 @@
 
 I'm a passionate mid-level web application dev with 2+ YoE. Welcome to my GitHub profile!
 - 🏄‍♂️ I'm currently learning Front End Web Development using **Vue3**
-- 💪🏽 In the last year, I learned Golang as Back End and Linux
+- 💪🏽 In the last year, I learned DevOps tools (e.g. Docker)
 - ✨ ❝Curiosity is the energy to explore things and the desire to learn❞
 - 💬 Ask me about Web Application Development
 
@@ -24,3 +24,5 @@ I'm a passionate mid-level web application dev with 2+ YoE. Welcome to my GitHub
 I'm on my way to getting an A+ in GitHub Stats. Because I usually using [GitLab](https://repo.indobsd.id/edwinsamodra)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=edsamodra&show_icons=true&theme=radical)
+
+> Last update: Feb 2, 2025
