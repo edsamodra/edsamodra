@@ -1,10 +1,10 @@
 ### Hi there! I'm Edwin 👋
+Welcome to my GitHub profile!
 
-I'm a passionate mid-level web application dev with 2+ YoE. Welcome to my GitHub profile!
-- 🏄‍♂️ I'm currently learning Front End Web Development using **Vue3**
-- 💪🏽 In the last year, I learned DevOps tools (e.g. Docker)
+I'm a medior web developers with 2+ YoE.
+- 🏄‍♂️ I'm currently build app using **Vue.js** and **Express.js**
+- 💪🏽 I'm also have curiousity about DevOps tools (e.g. Kubernetes, Terraform, Cloud, etc.)
 - ✨ ❝Curiosity is the energy to explore things and the desire to learn❞
-- 💬 Ask me about Web Application Development
 
 ---
 
@@ -25,4 +25,4 @@ I'm on my way to getting an A+ in GitHub Stats. Because I usually using [GitLab]
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=edsamodra&show_icons=true&theme=radical)
 
-> Last update: Feb 2, 2025
+> Last update: Feb 4, 2025
