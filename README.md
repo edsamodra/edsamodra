@@ -1,7 +1,7 @@
 ### Hi there! I'm Edwin 👋
 Welcome to my GitHub profile!
 
-I'm a medior web developers with 2+ YoE.
+I'm a medior web developer with 2+ YoE.
 - 🏄‍♂️ I'm currently build app using **Vue.js** and **Express.js**
 - 💪🏽 I'm also have curiousity about DevOps tools (e.g. Kubernetes, Terraform, Cloud, etc.)
 - ✨ ❝Curiosity is the energy to explore things and the desire to learn❞
