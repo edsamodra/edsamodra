@@ -4,6 +4,7 @@ Welcome to my GitHub profile!
 I'm a medior web developer with 2+ YoE.
 - 🏄‍♂️ I'm currently build app using **Vue.js** and **Express.js**. In this app I was integrating **Proxmox API**.
 - 💪🏽 I'm also have curiousity about DevOps tools (e.g. Kubernetes, Terraform, Cloud, etc.)
+- 🚧 I'm on my way learning DevOps from the beginning such as Linux and Networking.
 - ✨ ❝Curiosity is the energy to explore things and the desire to learn❞
 
 ---
